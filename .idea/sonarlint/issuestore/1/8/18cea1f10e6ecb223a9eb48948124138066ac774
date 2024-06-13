@@ -1,0 +1,4 @@
+
+©python:S101"gRename class "Ui_MainWindow" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.( ÌñıùÿÿÿÿJ$67ea1f0b-31df-4fc9-83a6-b3b08c2b5028
+python:S100"KRename method "setupUi" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÂéÇ´ÿÿÿÿÿJ$7af7d789-7ce0-4138-bb3c-473c0ada9d7c
+“python:S100 "QRename method "retranslateUi" to match the regular expression ^[a-z_][a-z0-9_]*$.(”«ÀşÿÿÿÿJ$29b3a5b1-4ea4-4a6c-bf6a-a01f44ff2c58
